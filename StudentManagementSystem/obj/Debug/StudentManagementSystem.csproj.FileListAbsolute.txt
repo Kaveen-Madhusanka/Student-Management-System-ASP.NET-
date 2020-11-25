@@ -1,0 +1,169 @@
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\ApplicationInsights.config
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\csc.exe
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\vbc.exe
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\VBCSCompiler.exe
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.dll.config
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.pdb
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Antlr3.Runtime.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\DMSSWE.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\EntityFramework.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\EntityFramework.SqlServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.Web.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.ApplicationInsights.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Newtonsoft.Json.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Owin.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.BL.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.DATA.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\System.Web.Optimization.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\System.Web.Providers.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\WebGrease.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.BL.pdb
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.DATA.pdb
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.Web.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.ApplicationInsights.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\System.Web.Optimization.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Antlr3.Runtime.pdb
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Newtonsoft.Json.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\EntityFramework.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\EntityFramework.SqlServer.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\System.Web.Providers.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\ApplicationInsights.config
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\csc.exe
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\vbc.exe
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\VBCSCompiler.exe
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.dll.config
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.pdb
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Antlr3.Runtime.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\EntityFramework.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.Web.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.ApplicationInsights.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Newtonsoft.Json.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Owin.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.BL.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.DATA.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\System.Web.Optimization.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\System.Web.Providers.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\WebGrease.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.BL.pdb
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\StudentManagementSystem.DATA.pdb
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.Web.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.ApplicationInsights.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\System.Web.Optimization.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Antlr3.Runtime.pdb
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Newtonsoft.Json.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\EntityFramework.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\System.Web.Providers.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb

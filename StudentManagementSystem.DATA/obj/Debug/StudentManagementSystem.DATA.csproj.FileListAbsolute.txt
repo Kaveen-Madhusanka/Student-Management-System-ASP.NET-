@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\bin\Debug\StudentManagementSystem.DATA.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\bin\Debug\StudentManagementSystem.DATA.pdb
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\bin\Debug\DMSSWE.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\obj\Debug\StudentManagementSystem.DATA.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\obj\Debug\StudentManagementSystem.DATA.pdb
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem.DATA\bin\Debug\StudentManagementSystem.DATA.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem.DATA\bin\Debug\StudentManagementSystem.DATA.pdb
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem.DATA\obj\Debug\StudentManagementSystem.DATA.csprojAssemblyReference.cache
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem.DATA\obj\Debug\StudentManagementSystem.DATA.csproj.CoreCompileInputs.cache
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem.DATA\obj\Debug\StudentManagementSystem.DATA.csproj.CopyComplete
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem.DATA\obj\Debug\StudentManagementSystem.DATA.dll
+E:\DMS\backups\asp\StudentManagementSystem\StudentManagementSystem.DATA\obj\Debug\StudentManagementSystem.DATA.pdb

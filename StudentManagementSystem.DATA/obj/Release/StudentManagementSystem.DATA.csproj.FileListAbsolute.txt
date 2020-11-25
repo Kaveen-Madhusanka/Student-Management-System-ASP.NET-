@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\bin\Release\StudentManagementSystem.DATA.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\bin\Release\StudentManagementSystem.DATA.pdb
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\bin\Release\DMSSWE.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\obj\Release\StudentManagementSystem.DATA.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\obj\Release\StudentManagementSystem.DATA.dll
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem.DATA\obj\Release\StudentManagementSystem.DATA.pdb

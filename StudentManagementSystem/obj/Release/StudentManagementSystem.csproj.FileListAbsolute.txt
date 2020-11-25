@@ -1,0 +1,1 @@
+c:\users\dell\documents\visual studio 2015\Projects\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.csprojResolveAssemblyReference.cache
